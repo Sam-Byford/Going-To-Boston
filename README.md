@@ -1,6 +1,6 @@
 # Going-To-Boston
 
-The first-year module Programming And Data Structures required me to create the game "Going to Boston" in C# for our third assignment. 
+The first-year module 'Programming And Data Structures' required me to create the game "Going to Boston" in C# for our third assignment. 
 
 Rules;
 
