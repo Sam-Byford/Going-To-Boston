@@ -12,8 +12,8 @@ Total up the three dice, the player with the highest value wins that round.
 Requirements;
 
 You should be able to choose between:
-a. ‘Match play’: Players win a point each round. The first to 5 wins the game.
-b. ‘Score play’: Players add up their total after each round. The player with the
+1) ‘Match play’: Players win a point each round. The first to 5 wins the game.
+2) ‘Score play’: Players add up their total after each round. The player with the
 highest score after 5 rounds wins the game. 
 
 Extended edition;
